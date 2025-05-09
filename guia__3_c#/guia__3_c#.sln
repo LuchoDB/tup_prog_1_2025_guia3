@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34902.65
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio 3 - Tornillos", "Ejercicio 3 - Tornillos.csproj", "{84627EDC-8F87-4086-838C-75B52CE99BDA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio3_tornillos", "Ejercicio3_tornillos\Ejercicio3_tornillos.csproj", "{84627EDC-8F87-4086-838C-75B52CE99BDA}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1 - Loteria (FOR)", "..\1 - Loteria (FOR)\1 - Loteria (FOR).csproj", "{49281230-24D3-4311-A23B-6F3D126C7E37}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio1_loteria", "Ejercicio1_loteria\Ejercicio1_loteria.csproj", "{49281230-24D3-4311-A23B-6F3D126C7E37}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2 - DJ (1)", "..\2 - DJ (1)\2 - DJ (1).csproj", "{02F43113-7CCE-4147-95B6-6044916DDBA8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio2_dj_p1", "Ejercicio2_dj_p1\Ejercicio2_dj_p1.csproj", "{02F43113-7CCE-4147-95B6-6044916DDBA8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio Parcial", "..\Ejercicio Parcial\Ejercicio Parcial.csproj", "{40EF7BA7-8F38-42B8-9604-BE2201294A02}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio2_dj_p2", "Ejercicio2_dj_p2\Ejercicio2_dj_p2.csproj", "{40EF7BA7-8F38-42B8-9604-BE2201294A02}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
